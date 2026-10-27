@@ -63,6 +63,9 @@ python -m src.main
 
 Acesse `http://localhost:2023/docs` para testar a aplicação na interface Swagger.
 
+<img width="671" height="193" alt="image" src="https://github.com/user-attachments/assets/cb0aa36c-620f-462d-b330-87d9ebe128a3" />
+
+
 ## 🎯 Próximos Passos (Roadmap)
 
 * Implementar filas de processamento (ex: Celery/RabbitMQ) para picos de volume de tickets.
