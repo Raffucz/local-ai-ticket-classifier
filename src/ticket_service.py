@@ -3,7 +3,7 @@ import json
 import requests
 
 class TicketAutomation:
-    def __init__(self, ollama_client, discord_webhook_url="https://discord.com/api/webhooks/1564752096798965800/8TG8MX1q6I450bN19QUx_TYCU5a2EIvPWF-7i5Hg0I-0VczpiTRVasn6tPK9mLHDK_t6"):
+    def __init__(self, ollama_client, discord_webhook_url="SEU URL"):
         self.ollama_client = ollama_client
         self.discord_webhook_url = discord_webhook_url
 
